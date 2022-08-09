@@ -1,5 +1,5 @@
 NDCore = exports["ND_Core"]:GetCoreObject()
-NDCore.Functions.VersionChecker("ND_Hospital", GetCurrentResourceName(), "https://github.com/Andyyy7666/ND_Framework", "")
+NDCore.Functions.VersionChecker("ND_Hospital", GetCurrentResourceName(), "https://github.com/Andyyy7666/ND_Framework", "https://github.com/coolskull23/ND_Hospital/blob/main/ND_Hospital/fxmanifest.lua")
 
 local hospitaledPlayer = {}
 
