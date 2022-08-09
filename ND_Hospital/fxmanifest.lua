@@ -1,6 +1,7 @@
 -- For support join my discord: https://discord.gg/Z9Mxu72zZ6  
 
 author "Andyyy#7666"
+editor "Coolskull#3963"
 description "ND Framework Hospitalize"
 version "2.2.0"
 
